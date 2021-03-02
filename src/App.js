@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import '../src/components/css/bootstrap.min.css'
-import Header from './components/css/Header/Header';
-import AllPlayer from './components/css/AllPlayer/AllPlayer';
+import Header from './components/Header/Header';
+import AllPlayer from './components/AllPlayer/AllPlayer';
 
 function App() {
   return (

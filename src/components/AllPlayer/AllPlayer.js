@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import FakeData from '../../../FakeData/Data.json'
-import '../AllPlayer/AllPlayer.css'
+import FakeData from '../../FakeData/Data.json';
+import './AllPlayer.css';
 import Cart from '../Cart/Cart';
 import SinglePlayer from '../SinglePlayer/SinglePlayer';
 const AllPlayer = () => {
