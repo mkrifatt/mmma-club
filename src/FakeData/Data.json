@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Khabib Nurmagomedov",
+        "salary": 6090000,
+        "image": "https://pbs.twimg.com/profile_images/1322781586513895425/G_stL2vh_400x400.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Conor McGregor",
+        "salary": 3060000,
+        "image": "https://www.greatestphysiques.com/wp-content/uploads/2020/02/Conor-McGregor-GP.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Junior dos Santos",
+        "salary": 1560000,
+        "image": "https://media.gettyimages.com/photos/junior-dos-santos-of-brazil-poses-on-the-scale-during-the-ufc-fight-picture-id1066624382?s=612x612"
+    },
+    {
+        "id": 4,
+        "name": "Israel Adesanya",
+        "salary": 1230000,
+        "image": "https://www.kick442.com/wp-content/uploads/2020/03/IMG-20200308-WA0017.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Justin Gaethje",
+        "salary": 920000,
+        "image": "https://images.indianexpress.com/2020/05/Justin-Gaethje-Usatoday.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Jose Aldo",
+        "salary": 920000,
+        "image": "https://media.gettyimages.com/photos/jose-aldo-poses-for-a-portrait-during-a-ufc-photo-session-on-january-picture-id1091581894?s=612x612"
+    },
+    {
+        "id": 7,
+        "name": "Deiveson Figueiredo",
+        "salary": 875000,
+        "image": "https://www.fightbookmma.com/wp-content/uploads/2020/02/UFC-240-Deiveson-Figueiredo-03.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Anthony Pettis",
+        "salary": 855000,
+        "image": "https://fighter-headshots.s3.amazonaws.com/mens-lw/Anthony-Pettis.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Alistair Overeem",
+        "salary": 830000,
+        "image": "https://talksport.com/wp-content/uploads/sites/5/2021/02/NINTCHDBPICT000634794061-e1612702744842.jpg?strip=all&w=960&quality=100"
+    },
+    {
+        "id": 10,
+        "name": "Stipe Miocic",
+        "salary": 790000,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Stipe_Miocic_in_Cleveland_on_October_26%2C_2016_%28cropped%29.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Dominick Reyes",
+        "salary": 760000,
+        "image": "https://media.gettyimages.com/photos/dominick-reyes-prepares-to-fight-chris-weidman-in-their-light-bout-picture-id1181977441?s=612x612"
+    },
+    {
+        "id": 12,
+        "name": "Robert Whittaker",
+        "salary": 745000,
+        "image": "https://staticg.sportskeeda.com/editor/2018/08/89f73-1535711659-800.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Marcin Tybura",
+        "salary": 701000,
+        "image": "https://fighter-headshots.s3.amazonaws.com/mens-hw/Marcin-Tybura.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Andrei Arlovski",
+        "salary": 695000,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Andrei_Arlovski_2018.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Tony Ferguson",
+        "salary": 695900,
+        "image": "https://media.bleacherreport.com/f_auto,w_800,h_533,q_auto,c_fill/br-img-images/003/700/162/hi-res-d035108288d5eaa620f419893dd0d890_crop_north.jpg"
+    }
+]
