@@ -7,7 +7,7 @@ const Cart = (props) => {
         <div className="cart-container">
             <h4 className="padding">Player Added: {cart.length}</h4>
             <h4 className="padding">Player Name : {cart.map(player => <li>{player.name}</li>)}</h4>
-            <h4 className="padding">Total Cost: {totalCost}</h4>
+            <h4 className="padding">Total Cost: ${totalCost}</h4>
         </div>
     );
 };
